@@ -2,7 +2,7 @@
 const surpriseLinks = {
     1: "https://www.lequipe.fr/", // Add link for December 1st
     2: "IMG_5765.HEIC",
-    3: "",
+    3: "https://github.com/viviend2/Calendar_2025/blob/main/IMG_5765.HEIC",
     4: "",
     5: "",
     6: "",
@@ -214,5 +214,6 @@ document.head.appendChild(style);
 // Initialize
 createSnow();
 createCalendar();
+
 
 
