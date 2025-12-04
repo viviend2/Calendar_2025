@@ -1,6 +1,6 @@
 // Configuration: Add your links here for each day
 const surpriseLinks = {
-    1: "", // Add link for December 1st
+    1: "https://www.lequipe.fr/", // Add link for December 1st
     2: "",
     3: "",
     4: "",
@@ -214,3 +214,4 @@ document.head.appendChild(style);
 // Initialize
 createSnow();
 createCalendar();
+
