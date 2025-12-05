@@ -2,7 +2,7 @@
 const surpriseLinks = {
     1: "IMG_5765.HEIC", // Add link for December 1st
     2: "IMG_0586.HEIC",
-    3: "IMG_0612.HEIC",
+    3: "IMG_0612.heic",
     4: "IMG_0659.HEIC",
     5: "IMG_0684.HEIC",
     6: "IMG_0742.HEIC",
@@ -214,6 +214,7 @@ document.head.appendChild(style);
 // Initialize
 createSnow();
 createCalendar();
+
 
 
 
