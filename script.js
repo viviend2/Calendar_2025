@@ -1,30 +1,30 @@
 // Configuration: Add your links here for each day
 const surpriseLinks = {
-    1: "https://www.lequipe.fr/", // Add link for December 1st
-    2: "IMG_5765.HEIC",
-    3: "https://github.com/viviend2/Calendar_2025/blob/main/IMG_5765.HEIC",
-    4: "",
-    5: "",
-    6: "",
-    7: "",
-    8: "",
-    9: "",
-    10: "",
-    11: "",
-    12: "",
-    13: "",
-    14: "",
-    15: "",
-    16: "",
-    17: "",
-    18: "",
-    19: "",
-    20: "",
-    21: "",
-    22: "",
-    23: "",
-    24: "",
-    25: ""
+    1: "IMG_5765.HEIC", // Add link for December 1st
+    2: "IMG_0586.HEIC",
+    3: "IMG_0612.HEIC",
+    4: "IMG_0659.HEIC",
+    5: "IMG_0684.HEIC",
+    6: "IMG_0742.HEIC",
+    7: "IMG_1506.HEIC",
+    8: "IMG_2453.HEIC",
+    9: "4a475c30-89b6-4ae6-b4b7-172c465fdd70.JPG",
+    10: "11fd96cb-b523-41b5-b6a6-9509c9f1115d.JPG",
+    11: "411dd764-503d-4193-87e6-163f823dcd55.JPG",
+    12: "D18AE0FF-A6B1-4E36-BE62-25CB9D1F4079.JPG",
+    13: "IMG_3829.HEIC",
+    14: "IMG_4475.HEIC",
+    15: "IMG_5765.HEIC",
+    16: "IMG_6376.HEIC",
+    17: "IMG_6350.HEIC",
+    18: "IMG_7077.HEIC",
+    19: "IMG_7466.HEIC",
+    20: "IMG_7487.HEIC",
+    21: "IMG_8054.HEIC",
+    22: "IMG_9396.HEIC",
+    23: "IMG_9403.HEIC",
+    24: "IMG_9717.JPG",
+    25: "IMG_6376.HEIC"
 };
 
 // Initialize the calendar
@@ -214,6 +214,7 @@ document.head.appendChild(style);
 // Initialize
 createSnow();
 createCalendar();
+
 
 
 
